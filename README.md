@@ -1,42 +1,45 @@
 <div align="center">
 
-# Amin
+# Amin Zamani
 
-### I make software and write to understand the world.
+### software · writing · curiosity
 
-<br>
-
-[![English Blog](https://img.shields.io/badge/English_blog-amin.waldi.blog-222222?style=flat-square)](https://amin.waldi.blog)
-[![Persian Blog](https://img.shields.io/badge/فارسی-aminz.net-222222?style=flat-square)](https://aminz.net)
+[![Website](https://img.shields.io/badge/website-aminzamani.com-222222?style=flat-square)](https://aminzamani.com)
+[![Now](https://img.shields.io/badge/now-what_I%27m_up_to-222222?style=flat-square)](https://aminzamani.com/now/)
+[![English](https://img.shields.io/badge/writing-English-222222?style=flat-square)](https://amin.waldi.blog)
+[![فارسی](https://img.shields.io/badge/writing-فارسی-222222?style=flat-square)](https://aminz.net)
 
 </div>
 
 ---
 
+I make software and write to understand things.
+
+I like small ideas, useful products, good books, strange rabbit holes, and software that stays out of the way.
+
 ### now
 
-Building things I want to exist.
+What I'm currently building, reading, learning, and thinking about:
 
-Writing at **[amin.waldi.blog](https://amin.waldi.blog)** and **[aminz.net](https://aminz.net)**.
+**→ [aminzamani.com/now](https://aminzamani.com/now/)**
 
-I care about software that is simple, useful, human, and able to last.
+### elsewhere
 
-### things I like
-
-`people` · `books` · `movies` · `science` · `software`
+**[aminzamani.com](https://aminzamani.com)** — home  
+**[amin.waldi.blog](https://amin.waldi.blog)** — writing in English  
+**[aminz.net](https://aminz.net)** — نوشتن به فارسی
 
 <br>
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=waaldev&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&include_all_commits=true&theme=transparent"
-  height="150"
-  alt="Amin's GitHub stats"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=waaldev&hide_border=true&theme=transparent"
+  alt="GitHub streak"
 />
 
 <br><br>
 
-<sub>trying to understand things by making things.</sub>
+<sub>people · books · movies · science · software</sub>
 
 </div>
